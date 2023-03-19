@@ -1,10 +1,11 @@
-# todoey
+# Todoey
 
-A new Flutter project.
+A todolist app to keep track of all your tasks.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A todolist app with emphasis on state management, implemented with the Provider package to manage the app state.
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at www.appbrewery.co
